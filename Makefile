@@ -1,5 +1,5 @@
 #
-# Build a standalone hello world with ECLS
+# Build a standalone helloworld with ECLS
 #
 helloworld: helloworld.lisp
 	ecl -load build.lisp
